@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finnish-rolodex/static/css/main.5ceecedb.chunk.css",
+    "main.js": "/finnish-rolodex/static/js/main.0142f48d.chunk.js",
+    "main.js.map": "/finnish-rolodex/static/js/main.0142f48d.chunk.js.map",
+    "runtime~main.js": "/finnish-rolodex/static/js/runtime~main.6a243718.js",
+    "runtime~main.js.map": "/finnish-rolodex/static/js/runtime~main.6a243718.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/finnish-rolodex/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/finnish-rolodex/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/finnish-rolodex/index.html",
+    "precache-manifest.96d4b53c8f3e07d7cc9fca39ccbe86ee.js": "/finnish-rolodex/precache-manifest.96d4b53c8f3e07d7cc9fca39ccbe86ee.js",
+    "service-worker.js": "/finnish-rolodex/service-worker.js",
+    "static/css/main.5ceecedb.chunk.css.map": "/finnish-rolodex/static/css/main.5ceecedb.chunk.css.map"
+  }
+}
